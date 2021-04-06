@@ -40,5 +40,5 @@ int countPairs3(int *arr, int len, int value) {
     mid = (leftS + rightS) / 2;
     leftS = 0; rightS = len-1;
   }
-  return count1111111;
+  return count;
 }
